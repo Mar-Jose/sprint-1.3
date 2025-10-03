@@ -50,5 +50,18 @@
     "habilidadEspecial": "Hechizos poderosos",
     "aliado": ["Wong"],
     "enemigo": ["Dormammu"]
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Abuelas",
+    "nombreReal": "Nona",
+    "nombreSociedad": "club de abuelas",
+    "edad": 88,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Nietos",
+    "poder": ["Historias", "Cocina"],
+    "habilidadEspecial": "Hacer chocolates, postres",
+    "aliado": ["Amigas"],
+    "enemigo": ["Políticos"]
   }
 ]
